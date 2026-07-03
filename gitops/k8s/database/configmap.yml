@@ -23,4 +23,4 @@ data:
   quick-seed.sql: |
     -- Seed data for demo
     \c auth_db
-    INSERT INTO users(name, email) VALUES('Alice','alice@example.com'),('Bob','bob@example.com');
+    INSERT INTO users(name, email) VALUES('darshan','darshanchaudhari4545@gmail.com'),('darsh','darshanchau9090@gmail.com');
